@@ -31,7 +31,7 @@ verilator/   - Verilator testbenches and simulation files
 
 1. **Project Setup**
    - Open the Quartus project in `src/` or copy files as needed.
-   - Assign FPGA pins using the provided constraint files (`.qsf`, `.sdc`).
+   - Assign FPGA pins using the provided constraint files (`.qsf`, `.sdc`). See also `src/pin_planer.png`.
    - Run synthesis and bitstream generation (see `scripts/bitstream_generation.sh`). 
 
 2. **Programming the FPGA**
