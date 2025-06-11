@@ -1,6 +1,8 @@
-# FPGA XOR Neural Network – Arduino MKR Vidor 4000 (Verilog)
+ FPGA XOR Neural Network – Arduino MKR Vidor 4000 (Verilog)
 
 This project implements a simple feedforward neural network in Verilog to solve the classic XOR problem, running on the Arduino MKR Vidor 4000 FPGA board. It demonstrates how neural network inference can be mapped to hardware for educational and experimental purposes.
+
+[Read the full blog post describing this project and its concept here.](https://www.larsgregori.de/2025/06/11/ai-on-fpga-generating-an-xor-neural-network-with-llms/)
 
 ## Overview
 
